@@ -1,0 +1,9 @@
+PS C:\Users\Hp\Downloads\assignment> python manage.py test
+Creating test database for alias 'default'...
+System check identified no issues (0 silenced).
+...........
+----------------------------------------------------------------------
+Ran 11 tests in 0.032s
+
+OK
+Destroying test database for alias 'default'...
